@@ -1,2 +1,1 @@
-def timezone():
-    return "UTC"
+

@@ -1,0 +1,2 @@
+def timezone():
+    return "UTC"
